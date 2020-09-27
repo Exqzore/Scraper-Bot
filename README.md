@@ -1,1 +1,1 @@
-# EbayScraper
+# Ebay Scraper bot
