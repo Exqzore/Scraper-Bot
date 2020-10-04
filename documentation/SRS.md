@@ -35,7 +35,7 @@
 * [.NET Core](https://dotnet.microsoft.com/) - это кроссплатформенная версия [.NET](https://en.wikipedia.org/wiki/.NET_Framework) для создания веб-сайтов, служб и консольных приложений.
 * [Html Agility Pack](https://www.gismeteo.ru/api/) -  удобный .NET парсер HTML.
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
-Взаимодействие с приложением осуществляется с помощью команд управления Telegram-бота, примерный внешний вид представлен с помощью мокапа [Чат бота](https://github.com/vectordiman/TRITPO/blob/master/documentation/mockups/main.pdf).
+Взаимодействие с приложением осуществляется с помощью команд управления Telegram-бота, примерный внешний вид представлен с помощью мокапа [Чат бота](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/mockups/Scraper_Bot.png).
 
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
 Множество начинающих продавцов нуждается в автоматическом поиске предложений в интернет-магазинах.
