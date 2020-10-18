@@ -14,6 +14,6 @@
 ![Start](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/Activity/Start.png)
   
 ### 3. New store listing<a name="3"></a>
-При нахождении продукта за установленную цену бот оповестит и укажет адрес на найденный продукт.
+При нахождении продукта за установленную цену бот оповестит и укажет адрес на найденного продукта.
 
 ![New store listing](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/Activity/NewStoreListing.png)
