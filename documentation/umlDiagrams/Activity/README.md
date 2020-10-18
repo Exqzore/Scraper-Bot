@@ -1,19 +1,19 @@
 # Содержание
-1. [Check balance](#1)
-2. [Choose colour](#2)
-3. [Paint over the pixel](#3)
+1. [Edit item](#1)
+2. [Start](#2)
+3. [New store listing](#3)
 
-### 1. Check balance<a name="1"></a>
-При попытке совершить игровую покупку приложение проверит наличие нужного количества игровой валюты на счёте пользователя
+### 1. Edit item<a name="1"></a>
+При изменении нужной информации об продукте бот сообщит в случае ошибки.
 
-![Check balance](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Activity/CheckBalance.png)
+![Edit item](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/Activity/EditItem.png)
 
-### 2. Choose colour<a name="2"></a>
-При наведении на цвет и нажатии ЛКМ приложение поменяет текущий цвет пикселя.
+### 2. Start<a name="2"></a>
+При запуске поиска продуктов бот напишет "Search has been started" или оповестит об ошибке.
 
-![Choose colour](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Activity/ChooseColour.png)
+![Start](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/Activity/Start.png)
   
-### 3. Paint over the pixel<a name="3"></a>
-При наведении на пиксель и нажатии ЛКМ приложение закрасит выбранный пиксель в текущий цвет.
+### 3. New store listing<a name="3"></a>
+При нахождении продукта за установленную цену бот оповестит и укажет адрес на найденный продукт.
 
-![Paint over the pixel](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Activity/Paint%20over%20the%20pixel.png)
+![New store listing](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/Activity/NewStoreListing.png)
