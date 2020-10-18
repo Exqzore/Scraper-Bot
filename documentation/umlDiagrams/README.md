@@ -15,14 +15,13 @@
 
 ### 1. Диаграмма прецедентов<a name="1"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму: 
-![Use Case](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Use%20case/UseCase.png)
+![Use Case](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/UseCase/UseCase.png)
 #### 1.1 Актёры<a name="1.1"></a>
 Актёр | Описание
 --- | ---
 User|Человек, использующий систему
-VK API|Сервис для авторизации
-Payment service|Сервис для покупки игровой валюты
-Server|Сервер, хранящий данные об игровом процессе
+Telegram API|Сервис для работы с сервером посредством Telegram bot-а
+Server|Сервер, хранящий данные об продуктах и выполняющий их поиск
 
 #### 1.2 Варианты использования<a name="1.2"></a>
 ##### 1.2.1 Login<a name="1.2.1"></a>
@@ -89,11 +88,11 @@ Server|Сервер, хранящий данные об игровом проц�
 5. Конец.
 
 ### 2. Диаграмма активности<a name="2"></a>
-Диагаммы активности более подробно расписаны в следующем документе: [диаграммы активности](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Activity/README.md)
+Диагаммы активности более подробно расписаны в следующем документе: [диаграммы активности](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/Activity/README.md)
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграммы последовательности вариантов использования представляют из себя следующие диаграммы:
-![Sequence Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Sequence/SequenceDiagramLogin.png)
-![Sequence Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Sequence/SequenceDiagramBuyGameElements.png)
-![Sequence Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Sequence/SequenceDiagramBuyGameCurrency.png)
+![Sequence Diagram](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/Sequence/AddItem.png)
+![Sequence Diagram](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/Sequence/DeleteItem.png)
+![Sequence Diagram](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/Sequence/ViewItems.png)
 
