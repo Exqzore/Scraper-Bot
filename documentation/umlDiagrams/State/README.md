@@ -6,16 +6,16 @@
 5. [Редактирование продуктов](#5)
 
 ### 1. Добавление аудиофайла<a name="1"></a>
-![Отображение стартового меню](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Add.png)
+![Отображение стартового меню](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/State/1.png)
 
 ### 2. Начало воспроизведения<a name="2"></a>
-![Фильтр поиска](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Play.png)
+![Фильтр поиска](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/State/2.png)
   
 ### 3. Воспроизведение следующей аудиозаписи<a name="3"></a>
-![Добавление нового продукта](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Next.png)
+![Добавление нового продукта](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/State/3.png)
 
 ### 4. Изменение громкости<a name="4"></a>
-![Отображение продуктов](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Volume.png)
+![Отображение продуктов](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/State/4.png)
 
 ### 5. Удаление аудиозаписи<a name="5"></a>
-![Редактирование продуктов](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Remove.png)
+![Редактирование продуктов](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/State/5.png)
