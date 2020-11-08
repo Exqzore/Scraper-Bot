@@ -18,4 +18,4 @@
 ![Отображение продуктов](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Volume.png)
 
 ### 5. Удаление аудиозаписи<a name="5"></a>
-!Редактирование продуктов](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Remove.png)
+![Редактирование продуктов](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/State/Remove.png)
