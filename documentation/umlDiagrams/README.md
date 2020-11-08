@@ -95,5 +95,6 @@ Server|Сервер, хранящий данные об продуктах и в
 
 ### 6. Диаграмма развертывания и компонентов<a name="6"></a>
 Диаграммы развёртывания и компонентов представляет собой следующую диаграмму: 
+
 ![Deployment Diagram](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/%D0%A1%26DDiag/%D0%A1.png)
 
