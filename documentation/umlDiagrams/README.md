@@ -86,7 +86,8 @@ Server|Сервер, хранящий данные об продуктах и в
 Диагаммы состояний более подробно расписаны в следующем документе: [диаграммы состояний](https://github.com/steppbol/B-Player/blob/master/documentation/uml-diagrams/State/README.md)
 
 ### 5. Диаграмма классов<a name="5"></a>
-Диаграмма классов представляет собой следующую диаграмму: 
+Диаграмма классов представляет собой следующую диаграмму:
+
 ![Class Diagram](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/ClassDiagram/Diag.png)
 
 На диаграмме указаны некоторые стереотипы:
