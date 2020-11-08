@@ -11,6 +11,9 @@
 1.2.7 [edit item](#1.2.7)<br>
 2. [Диаграмма активности](#2)
 3. [Диаграмма последовательности](#3)
+4. [Диаграмма состояний](#4)
+5. [Диаграмма классов](#5)
+6. [Диаграмма развертывания и компонентов](#6)
 
 ### 1. Диаграмма прецедентов<a name="1"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму: 
@@ -83,7 +86,7 @@ Server|Сервер, хранящий данные об продуктах и в
 ![Sequence Diagram](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/Sequence/ViewItems.png)
 
 ### 4. Диаграмма состояний<a name="4"></a>
-Диагаммы состояний более подробно расписаны в следующем документе: [диаграммы состояний](https://github.com/steppbol/B-Player/blob/master/documentation/uml-diagrams/State/README.md)
+Диагаммы состояний более подробно расписаны в следующем документе: [диаграммы состояний](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/State/README.md)
 
 ### 5. Диаграмма классов<a name="5"></a>
 Диаграмма классов представляет собой следующую диаграмму:
