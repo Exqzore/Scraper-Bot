@@ -88,6 +88,7 @@ Server|Сервер, хранящий данные об продуктах и в
 ### 5. Диаграмма классов<a name="5"></a>
 Диаграмма классов представляет собой следующую диаграмму: 
 ![Class Diagram](https://github.com/Exqzore/Scraper-Bot/blob/master/documentation/umlDiagrams/ClassDiagram/Diag.png)
+
 На диаграмме указаны некоторые стереотипы:
 * \<\<create\>\> - Конструктор. Метод который будет вызываться при создании объекта класса
 
